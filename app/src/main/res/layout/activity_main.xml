@@ -36,4 +36,19 @@
         android:layout_height="wrap_content"
         android:onClick="lancerImageActivity"
         android:text="Image" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lancerRecordActivity"
+        android:text="Media Recorder" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lancerCamActivity"
+        android:text="Camera" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="lancerResultActivity"
+        android:text="Result" />
 </LinearLayout>
